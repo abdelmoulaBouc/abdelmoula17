@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **EveadGroup** as ReactJs Developer
 
-- 💬 Ask me about **ReactJs,NextJs,Php,Laravel**
+- 💬 Ask me about **TypeScript,ReactJs,NextJs,Php,Laravel**
 
 - 📫 How to reach me **abdelmoulabouchareb12@gmail.com**
 
